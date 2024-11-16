@@ -1,1 +1,3 @@
 pyppeteer
+requests
+zipfile36
